@@ -5,3 +5,5 @@ Alguns links contendo painéis de estudo e projetos no Power BI
 
 
 2 - Dashboard análise do jogo Among Us - https://app.powerbi.com/view?r=eyJrIjoiNjkzMjVmNTAtMWU4NS00NzE5LWFlOTEtZTI4YmE4NTA0ZGMxIiwidCI6IjYyZGJlNGI3LWViOTktNDc4ZC1iMTFiLWNlZTU5YTEwZWVmNiJ9
+
+3 - Relatório de votos vereador - https://app.powerbi.com/view?r=eyJrIjoiZTAzZTkzNDgtMDgxMC00M2E3LWE5NzMtZDgwMjBhYTI0ZmFjIiwidCI6IjYyZGJlNGI3LWViOTktNDc4ZC1iMTFiLWNlZTU5YTEwZWVmNiJ9
